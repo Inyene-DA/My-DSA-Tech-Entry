@@ -14,8 +14,13 @@ google
 cargo
 
 ### Tools Used
-- Microsoft Excel for data cleaning
+- Microsoft Excel for Data cleaning [download here](https://www.microsoft.com)
+  - Data cleaning
+    1. Data Manipulation
+    2. Data Munging
   - Data collection
 - SQL Server for Querying and Analysis
 - Power BI for creating a Report
 - Power Point for Presentation 
+
+### Data Cleaning

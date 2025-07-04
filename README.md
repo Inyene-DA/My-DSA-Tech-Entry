@@ -1,6 +1,6 @@
-**🔗# Inyene Udoekong - Data Analyst Portfolio**
+# Inyene Udoekong - Data Analyst Portfolio
 
-**🔗## About**
+## About
 Hi, I'm Inyene! 
 Hello, I am Inyene Udoekong! 
 I have been serving in my career as a 
@@ -44,20 +44,20 @@ the Son of The Living God.
 
 This is a repository to showcase skills, share projects and track my progress in Data Analytics related conversations.
 
-🔗## **Table of Contents**
+## Table of Contents
 
-->### **About**
+ >- ### About
 
-->### **Portfolio Projects**
+ >- ### Portfolio Projects
 
-  ->### **SQL**
-    ->### Data Exploration and Analysis of Kultra Mega Stores Inventory
+   >- ### SQL
+    >-### Data Exploration and Analysis of Kultra Mega Stores Inventory
 
-  ->### **Excel**
-    ->### Amazon Product Review Analysis
+   >- ### Excel
+     >- ### Amazon Product Review Analysis
 
-🔗## **Contact**
-  ->### inyene_udoekong@yahoo.com
+ >- ### Contact
+    >-### inyene_udoekong@yahoo.com
 
 
 

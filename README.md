@@ -48,9 +48,12 @@ This is a repository to showcase skills, share projects and track my progress in
   ### About
 
   ### Portfolio Projects
+
+  -https://github.com/Inyene-DA/KMS-Analysis-DSA
       - SQL
        - Data Exploration and Analysis of Kultra Mega Stores Inventory
-
+       
+         
       - Excel
        - Amazon Product Review Analysis
 

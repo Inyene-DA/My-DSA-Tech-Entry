@@ -49,11 +49,11 @@ This is a repository to showcase skills, share projects and track my progress in
 
   ### Portfolio Projects
 
-  -https://github.com/Inyene-DA/KMS-Analysis-DSA
+  - https://github.com/Inyene-DA/KMS-Analysis-DSA
       - SQL
        - Data Exploration and Analysis of Kultra Mega Stores Inventory
        
-         
+  - https://github.com/Inyene-DA/Amazon-Product-Analysis-DSA      
       - Excel
        - Amazon Product Review Analysis
 

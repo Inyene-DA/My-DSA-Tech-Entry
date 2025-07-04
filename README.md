@@ -1,8 +1,7 @@
 # Inyene Udoekong - Data Analyst Portfolio
 
 ## About
-Hi, I'm Inyene! 
-Hello, I am Inyene Udoekong! 
+Hi, I'm Inyene!  
 I have been serving in my career as a 
 HSE Coordinator with an analytical background in 
 Electrical and Electronics Engineering.I

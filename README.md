@@ -1,6 +1,6 @@
-🔗# **Inyene Udoekong - Data Analyst Portfolio**
+**🔗# Inyene Udoekong - Data Analyst Portfolio**
 
-🔗 ## **About**
+**🔗## About**
 Hi, I'm Inyene! 
 Hello, I am Inyene Udoekong! 
 I have been serving in my career as a 

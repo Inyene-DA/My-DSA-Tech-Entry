@@ -46,18 +46,17 @@ This is a repository to showcase skills, share projects and track my progress in
 
 ## Table of Contents
 
- >- ### About
+  ### About
 
- >- ### Portfolio Projects
+  ### Portfolio Projects
+      - SQL
+       - Data Exploration and Analysis of Kultra Mega Stores Inventory
 
-   >- ### SQL
-    >-### Data Exploration and Analysis of Kultra Mega Stores Inventory
+      - Excel
+       - Amazon Product Review Analysis
 
-   >- ### Excel
-     >- ### Amazon Product Review Analysis
-
- >- ### Contact
-    >-### inyene_udoekong@yahoo.com
+  ### Contact
+      - Email: inyene_udoekong@yahoo.com
 
 
 
